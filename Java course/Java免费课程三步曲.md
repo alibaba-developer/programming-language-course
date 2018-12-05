@@ -10,9 +10,9 @@
 还有20道自测题，来测测你的Java基础水平，能得多少分？戳这里开始测试：https://edu.aliyun.com/clouder/exam/intro/15?utm_content=m_1000015567
 
 <div style="text-align:center" class="title" align="center">
-<img src="/images/Java免费课程三步曲.1.png" width="580" height="1847" align="center" />
+<img src="/Java course/images/Java免费课程三步曲.1.png" width="580" height="1847" align="center" />
 </div>
 
 <div style="text-align:center" align="center">
-<img src="/images/Java免费课程三步曲.2.png" width="480" height="647" align="center" />
+<img src="/Java course/images/Java免费课程三步曲.2.png" width="480" height="647" align="center" />
 </div>
