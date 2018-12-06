@@ -45,8 +45,6 @@ PPT下载：https://yq.aliyun.com/download/2656
 
 嵛山， 阿里巴巴高级开发工程师，武汉大学地信硕士，有丰富的系统开发经验，使用过java，c++、go、python、javascript、.net等多种语言，目前主要精力在Java，就职于阿里巴巴代码中心团队，负责后端开发。
 
-3766ba6b7406a9285da109c95979e84675dd62d6
-
 <h4>专家简介</h4>
 
 3、Java基础入门（三）
