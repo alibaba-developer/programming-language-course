@@ -36,7 +36,7 @@ PPT下载：https://yq.aliyun.com/download/2656
 
 视频回顾：https://yq.aliyun.com/video/play/1431
 
-文章链接：hhttps://yq.aliyun.com/articles/587289
+文章链接：https://yq.aliyun.com/articles/587289
 
 PPT下载：https://yq.aliyun.com/download/2656
 
