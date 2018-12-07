@@ -72,8 +72,6 @@ PPT下载：https://yq.aliyun.com/download/2660
 
 澳明，阿里巴巴高级开发工程师
 
-dd99c3ee3802b9bccdcbc987c705eda0a3045ea7
-
 <h4>专家简介</h4>
 
 <h4>5、Java高级特性入门（二）</h4>
